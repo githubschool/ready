@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+This is an cat dressed as an octopus celebrating mardi gras?
 
 ![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
 {: .center}
