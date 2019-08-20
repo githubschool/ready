@@ -5,7 +5,5 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-It is monday :)
-
-![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
+![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
